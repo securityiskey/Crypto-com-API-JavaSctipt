@@ -68,4 +68,4 @@ you need to copy the jumbled unique id. Mine lookes like this "1hdIYg44ksjgrRjmo
 
 Crypto.com Documentation: https://exchange-docs.crypto.com/
 
-
+USE AT YOUR OWN DISCRETION. I DON'T RECOMMEND THIS TOOL TO MAKE TRADES OR USE IT FOR MAKING DECISIONS TO INVEST. JUST AS A HOBBY.
