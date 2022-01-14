@@ -42,3 +42,5 @@ Step 9: that's it... script should run now and update your googlesheet.
 Step 10 (Optional): If you found this project helpful and you wish to pay me back with coffee money. I included my CRO address below :)
 
 CRO Address: cro1w2kvwrzp23aq54n3amwav4yy4a9ahq2kz2wtmj and CRO Deposit Memo: 3551237380
+
+Crypto.com Documentation: https://exchange-docs.crypto.com/
