@@ -16,15 +16,25 @@ You will then "share" your google spreadsheet with this service account that you
 
 Easy summary on how to do it:
 login to: https://console.cloud.google.com/     using your gmail
+
 -Create a new project
+
 -go to the menu and click on IAM & Admin
+
 -go to Service Accounts from the left menu
+
 -Create a service account (option from the top page +CREATE SERVICE ACCOUNT)
+
 -fill in the service account details and hit done
+
 -The new service account will pop up on your Service Account page now. You will notice is has "No Key" under Key ID
+
 -Select your account, click on the menu under "Actions" (last column) and choose Manage Keys
+
 -Click on Add Key then Create New Key
+
 -From the options choose the recommended JSON and click Create
+
 -go to your downloads and rename that file to... you guessed it "credentials.json" and overwrite it with mine in the Crypto.com-API-JavaSctipt project folder (from step 0)
 
 reference: https://developers.google.com/workspace/guides/create-credentials
