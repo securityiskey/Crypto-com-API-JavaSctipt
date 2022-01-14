@@ -56,12 +56,6 @@ you need to copy the jumbled unique id. Mine lookes like this "1hdIYg44ksjgrRjmo
 
 **Step 10 (Optional):** If you found this project helpful and you wish to pay me back with coffee money. I included my CRO address below :)
 
-CRO Address
-
-cro1w2kvwrzp23aq54n3amwav4yy4a9ahq2kz2wtmj
-
-CRO Deposit Memo
-
-3551237380
+**CRO Address:** cro1w2kvwrzp23aq54n3amwav4yy4a9ahq2kz2wtmj  and **CRO Deposit Memo:**  3551237380
 
 
