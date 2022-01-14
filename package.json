@@ -13,9 +13,6 @@
   ],
   "author": "securityiskey",
   "license": "MIT",
-  "dependencies": {
-    "inquirer": "^1.0.4"
-  },
 
 "repository": {
     "type": "git",
