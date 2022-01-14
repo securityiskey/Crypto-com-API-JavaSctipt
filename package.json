@@ -1,6 +1,6 @@
 {
   "name": "crypto-dot-com-api",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Connect to Crypto.com API and share data with Googlesheets",
   "main": "index.js",
   "bin": "index.js",
@@ -27,12 +27,12 @@
     "publishConfig": {
     "access": "public",
     "branches": [
-      "master"
+      "main"
     ]
   },
     "homepage": "https://github.com/securityiskey/Crypto.com-API-JavaSctipt/blob/main/README.md",
   "devDependencies": {
-    "semantic-release": "^1.0.7"
+    "semantic-release": "^1.0.8"
   }
   
   }
