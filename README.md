@@ -3,7 +3,7 @@ Crypto.com API Node.JS
 
 The objective of this project is to help users who are interested in using the Crypto.com API and passing the data to GoogleSheet for monitoring purposes. The sky is the limit with what you can do with Googlesheet. You can reference the latest Crypto prices, volume, your position, etc. and do whatever your heart desires in one of the most powerful analysis tool in the world.
 
-It took me many days to get it my code to work and I almost gave up but perseverance runs in my blood. I couldn’t find existing projects online using JavaScript so there you have it.
+It took me many days to get it my code to work and I almost gave up but perseverance runs in my blood. I couldn’t find existing projects online using JavaScript so there you have it. I am not an expert coder so if you spot silly and unnecessary steps in my code then I apologize in advance.
 
 Enjoy and have fun! If you wish to donate I included my CRO wallet info below.
 
