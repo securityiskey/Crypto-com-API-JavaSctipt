@@ -4,6 +4,9 @@
   "description": "Connect to Crypto.com API and share data with Googlesheets",
   "main": "index.js",
   "bin": "index.js",
+  "files:":[
+		"index.js"
+  ],
   "scripts": {
   "semantic-release": "semantic-release"
   },
