@@ -24,7 +24,7 @@
   },
   "bugs": {
     "url": "https://github.com/securityiskey/Crypto.com-API-JavaSctipt/issues"
-  }
+  },
     "homepage": "https://github.com/securityiskey/Crypto.com-API-JavaSctipt/blob/main/README.md",
   "devDependencies": {
     "semantic-release": "^1.0.1"
