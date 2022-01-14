@@ -20,6 +20,7 @@ login to: https://console.cloud.google.com/     using your gmail
 -Create a new project
 
 -go to the menu and click on IAM & Admin
+
 -go to Service Accounts from the left menu
 
 -Create a service account (option from the top page +CREATE SERVICE ACCOUNT)
@@ -54,6 +55,7 @@ you need to copy the jumbled unique id. Mine lookes like this "1hdIYg44ksjgrRjmo
 **Step 9:** that's it... script should run now and update your googlesheet.
 
 **Step 10 (Optional):** If you found this project helpful and you wish to pay me back with coffee money. I included my CRO address below :)
+
 CRO Address
 cro1w2kvwrzp23aq54n3amwav4yy4a9ahq2kz2wtmj
 CRO Deposit Memo
