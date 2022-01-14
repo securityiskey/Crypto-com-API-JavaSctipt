@@ -3,6 +3,7 @@
   Step 0: I repeat, for the googlesheet connection to work you will to overwrite the credentials.json file in the project folder with your own. Read HELPME.txt
   Step 1: Search for "UPDATE HERE" without the quotes and update the code below to match it with your information.
 */
+#!/usr/bin/env node
 const crypto = require("crypto-js");
 const BASE_URL = "https://api.crypto.com/v2/"
 const https = require('https')
