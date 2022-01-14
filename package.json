@@ -4,18 +4,14 @@
   "description": "Connect to Crypto.com API and share data with Googlesheets",
   "main": "index.js",
   "scripts": {
-    "start": "exit 0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "Crypto.com-API-JavaSctipt"
+  "semantic-release": "semantic-release"
   },
   "keywords": [
     "Crypto.com",
     "API"
   ],
   "author": "securityiskey",
-  "license": "MIT"
+  "license": "MIT",
 
 
 "repository": {
