@@ -66,4 +66,6 @@ you need to copy the jumbled unique id. Mine lookes like this "1hdIYg44ksjgrRjmo
 
 **CRO Address:** cro1w2kvwrzp23aq54n3amwav4yy4a9ahq2kz2wtmj  and **CRO Deposit Memo:**  3551237380
 
+Crypto.com Documentation: https://exchange-docs.crypto.com/
+
 
