@@ -2,7 +2,7 @@
 Crypto.com API Node.JS
 
 
-**Step 0:** extract the Crypto.com-API-JavaSctipt from github and save it on your desktop or anywhere you like.
+**Step 0:** extract the Crypto.com-API-JavaSctipt from github and save it on your desktop or anywhere you like (Unzip the file if it's zipped).
 **Step 1:** Install nodejs and npm if you haven't done that already. You could find documentation online on how to do it for Linux or Windows. I included couple sites below.
 
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
