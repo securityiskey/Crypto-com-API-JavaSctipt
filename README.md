@@ -20,7 +20,6 @@ login to: https://console.cloud.google.com/     using your gmail
 -Create a new project
 
 -go to the menu and click on IAM & Admin
-
 -go to Service Accounts from the left menu
 
 -Create a service account (option from the top page +CREATE SERVICE ACCOUNT)
