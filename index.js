@@ -25,6 +25,15 @@ function logEveryfSeconds(f) {
 
 let f = 0;
 
+//creating a sample json to avoid errors later on in the code
+var obj1 = {
+   table: []
+};
+obj1.table.push({"i":"","b":"","k":"","a":"","t":"","v":"","h":"","l":"","c":""});
+var samplejson = JSON.stringify(obj1);
+fs.writeFileSync('cache.txt',samplejson);
+//creating sample json ends
+
 setInterval(() => {
 
 logEveryfSeconds(0);
